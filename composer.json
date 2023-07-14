@@ -1,0 +1,10 @@
+{
+    "name": "viet/autoload",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "App/"
+        }
+    }
+}
